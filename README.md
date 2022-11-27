@@ -1,8 +1,8 @@
 # Online-Blood-bank-management-system
 
-Technologies used-HTML,CSS,JAVASCRIPT,bootstrap,php,MYSQL. In this project there is home page nad there is search funtionality . This project concept for user and donor. Both visit the website . When donor visit he can create his account after that the user who need the blood can search the donor by city & blood group and then click on search button. then the donor will be displayed.
+Technologies used-HTML,CSS,JAVASCRIPT,bootstrap,php,MYSQL. In this project there is home page and there is search funtionality . This project concept for user and donor. Both visit the website . When donor visit he can create his account after that the user who need the blood can search the donor by city & blood group and then click on search button. then the donor will be displayed.
 
-As we know that if the donor has donoated the blood then he can not donate the blood upto next three months.so i have added a functionality that donor will create the account & then click on the button "Save life" & then store the date of blood donation .then he will be disable for next three months & on the message it is dispalyed. Donor can update his complete profile ,change his password,& then he can also delete.
+As we know that if the donor has donated the blood then he can not donate the blood upto next three months.so i have added a functionality that donor will create the account & then click on the button "Save life" & then store the date of blood donation .then he will be disable for next three months & on the message it is dispalyed. Donor can update his complete profile ,change his password,& then he can also delete.
 
 ![Screenshot (92)](https://user-images.githubusercontent.com/101914410/204122952-1e463299-46fc-48fa-93bf-e922af2da57a.png)
 
